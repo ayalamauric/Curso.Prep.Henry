@@ -1,0 +1,10 @@
+Respuestas al punto 1 
+	* Variables: Es un espacio en memoria, su valor puede cambiar en tiempo de ejecución.
+	* Strings: es un tipo de dato, en algunos lenguajes puede ser una colección. ejemplo "Estoy motivado por hacer el curso de henry. espero que me acepten."
+    * Funciones (argumentos, `return`): De acuerdo al valor que se le pase, devuelve un resultado.
+     espacio de memoria en tiempo de ejecución. los argumentos son variables locales que se le pasan a la Funcion
+     como parametro, la función opera con estos valores; Return es el resultado que genera la función.
+	* Declaraciones `if`: es un condicional simple, de acuerdo a  si el valor es True o False se ejecutará la declaración en el cuerpo del 
+    condicional.
+	* Valores booleanos (`true`, `false`): Dificil de explicar. fácil de comprender. Puede tener 2 valores posibles. Sirve para realizar comprobaciones en por ejemplo declaraciones condicionales. If/else
+    
