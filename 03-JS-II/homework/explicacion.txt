@@ -1,0 +1,9 @@
+Explicación: 
+ for : Ciclo definido que itera sobre una colección; Es optimo para cuando conocemos de ante mano cuantos elementos tiene la colección.
+
+&&: Operador logico AND; será verdadero si y solo si los elementos que se comparan son verdaderos.
+1=== 1 AND 2 === 2 => resultado: True 
+||: Operador lógico OR; será verdadero si cualquiera de los dos elementos que se comparan es verdadero o ambos. Será falso si ambos son falsos.
+! Operador lógico NOT:  convierte el valor al opuesto: ejemplo
+ Si !1 = 0
+ Si !0 = 1 
