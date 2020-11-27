@@ -1,0 +1,1 @@
+Funciones Callback: Son funciones que reciben como parametro otra funcion. Se utilizan para manejar el error.
