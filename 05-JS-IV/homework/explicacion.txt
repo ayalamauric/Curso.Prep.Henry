@@ -1,0 +1,9 @@
+	Explicación:
+    
+    * Objetos: Instancias de una clase.
+	* Propiedades: atributos propios de un Objeto 
+	* Métodos: funciones de un objeto
+	* Bucle `for…in`: Estructura de iteración para objetos.
+	* Notación de puntos vs notación de corchetes: la notacion de puntos se usa para acceder a las propiedades del objeto.
+    La notación de corchetes también pero con la diferencia que se debe usar como variable que apunte a una clave o una cadena apuntando a una clave. 
+
